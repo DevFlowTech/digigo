@@ -152,7 +152,7 @@ export default function ClientsPage() {
 
                 {/* Quote */}
                 <p className="text-gray-700 leading-relaxed mb-6 italic">
-                  "{testimonial.quote}"
+                  &quot;{testimonial.quote}&quot;
                 </p>
 
                 {/* Author */}

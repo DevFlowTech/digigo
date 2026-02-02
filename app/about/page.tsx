@@ -42,9 +42,9 @@ export default function AboutPage() {
                 DIGIGO was founded in 2012 with a mission to eliminate the
                 harmful effects of hard water while conserving energy, water,
                 and the environment. Its flagship innovation, E-SOFT (Electro
-                Hydro Enhancer), is the world's only 6th-generation electronic
-                water softening system that works without chemicals, salt, or
-                water wastage, while retaining essential minerals.
+                Hydro Enhancer), is the world&apos;s only 6th-generation
+                electronic water softening system that works without chemicals,
+                salt, or water wastage, while retaining essential minerals.
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
                 Designed and manufactured in India, E-SOFT uses advanced digital
@@ -86,11 +86,11 @@ export default function AboutPage() {
                   commercial sectors.
                 </p>
                 <p className="text-gray-600 leading-relaxed">
-                  As India's first company to develop an advanced electronic
-                  water softening system, we strive to reduce energy loss,
-                  control air, water, and land pollution, support India's fight
-                  against global warming, and position the nation as a global
-                  hub for sustainable innovation.
+                  As India&apos;s first company to develop an advanced
+                  electronic water softening system, we strive to reduce energy
+                  loss, control air, water, and land pollution, support
+                  India&apos;s fight against global warming, and position the
+                  nation as a global hub for sustainable innovation.
                 </p>
               </div>
             </div>

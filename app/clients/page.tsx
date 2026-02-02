@@ -90,10 +90,12 @@ export default function ClientsPage() {
                   className="group bg-white rounded-xl p-6 sm:p-8 border-2 border-gray-200 hover:border-primary-500 transition-all duration-300 hover:shadow-lg flex items-center justify-center"
                 >
                   <div className="relative w-full h-20 sm:h-24">
-                    <img
+                    <Image
                       src={client.logo}
                       alt={client.alt}
-                      className="w-full h-full object-contain"
+                      fill
+                      className="object-contain"
+                      unoptimized={client.logo.startsWith("http")}
                     />
                   </div>
                 </div>

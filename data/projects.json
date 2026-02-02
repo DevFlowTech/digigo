@@ -1,0 +1,76 @@
+{
+    "sectors": [
+        {
+            "id": "agriculture",
+            "name": "Agriculture",
+            "description": "Water treatment solutions for farms, greenhouses, and irrigation systems",
+            "image": "/agriculture.png",
+            "projects": [
+                {
+                    "title": "Large Scale Farm Irrigation",
+                    "location": "Punjab",
+                    "description": "E-SOFT installation for 500-acre farm irrigation system"
+                },
+                {
+                    "title": "Greenhouse Water Treatment",
+                    "location": "Maharashtra",
+                    "description": "Precision water treatment for commercial greenhouse operations"
+                }
+            ]
+        },
+        {
+            "id": "residential",
+            "name": "Residential",
+            "description": "Home water softening solutions for apartments and villas",
+            "image": "/residential.png",
+            "projects": [
+                {
+                    "title": "Luxury Villa Complex",
+                    "location": "Bangalore",
+                    "description": "Whole-home water treatment for 50-unit villa community"
+                },
+                {
+                    "title": "High-Rise Apartments",
+                    "location": "Mumbai",
+                    "description": "Centralized E-SOFT system for 200+ residential units"
+                }
+            ]
+        },
+        {
+            "id": "commercial",
+            "name": "Commercial",
+            "description": "Water solutions for hotels, restaurants, and commercial facilities",
+            "image": "/commercial.png",
+            "projects": [
+                {
+                    "title": "5-Star Hotel Chain",
+                    "location": "Delhi",
+                    "description": "Complete water treatment for hotel laundry and kitchen operations"
+                },
+                {
+                    "title": "Shopping Mall",
+                    "location": "Ahmedabad",
+                    "description": "Centralized water system for multi-tenant commercial complex"
+                }
+            ]
+        },
+        {
+            "id": "industrial",
+            "name": "Industrial",
+            "description": "Heavy-duty water treatment for manufacturing and processing",
+            "image": "/industrial.png",
+            "projects": [
+                {
+                    "title": "Textile Manufacturing",
+                    "location": "Surat",
+                    "description": "Industrial-scale E-SOFT for textile dyeing and processing"
+                },
+                {
+                    "title": "Food Processing Plant",
+                    "location": "Rajkot",
+                    "description": "Water treatment for food-grade manufacturing facility"
+                }
+            ]
+        }
+    ]
+}

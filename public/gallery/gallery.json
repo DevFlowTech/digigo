@@ -1,0 +1,161 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "title": "AIIMS Hospital Water Treatment System",
+            "category": "hospital",
+            "location": "New Delhi",
+            "date": "2024",
+            "image": "/gallery/aiims-hospital.jpg",
+            "description": "Complete water treatment solution for medical equipment and patient care facilities",
+            "capacity": "50,000 LPH"
+        },
+        {
+            "id": 2,
+            "title": "Tata Steel Manufacturing Plant",
+            "category": "industrial",
+            "location": "Jamshedpur",
+            "date": "2023",
+            "image": "/gallery/tata-steel.jpg",
+            "description": "Industrial-scale water treatment for cooling towers and manufacturing processes",
+            "capacity": "200,000 LPH"
+        },
+        {
+            "id": 3,
+            "title": "Government Agriculture Research Center",
+            "category": "government",
+            "location": "Punjab",
+            "date": "2024",
+            "image": "/gallery/agriculture-research.jpg",
+            "description": "Advanced irrigation water treatment for agricultural research and crop development",
+            "capacity": "75,000 LPH"
+        },
+        {
+            "id": 4,
+            "title": "Reliance Industries Complex",
+            "category": "industrial",
+            "location": "Gujarat",
+            "date": "2023",
+            "image": "/gallery/reliance-complex.jpg",
+            "description": "Multi-unit water treatment system for petrochemical operations",
+            "capacity": "150,000 LPH"
+        },
+        {
+            "id": 5,
+            "title": "State Government Office Complex",
+            "category": "government",
+            "location": "Maharashtra",
+            "date": "2024",
+            "image": "/gallery/government-office.jpg",
+            "description": "Water treatment for administrative buildings and facilities",
+            "capacity": "30,000 LPH"
+        },
+        {
+            "id": 6,
+            "title": "Luxury Hotel & Resort",
+            "category": "commercial",
+            "location": "Goa",
+            "date": "2023",
+            "image": "/gallery/luxury-hotel.jpg",
+            "description": "Premium water quality for guest rooms, spa, and laundry facilities",
+            "capacity": "60,000 LPH"
+        },
+        {
+            "id": 7,
+            "title": "Agricultural Cooperative Farm",
+            "category": "agriculture",
+            "location": "Haryana",
+            "date": "2024",
+            "image": "/gallery/cooperative-farm.jpg",
+            "description": "Drip irrigation water treatment for 500-acre cooperative farming",
+            "capacity": "100,000 LPH"
+        },
+        {
+            "id": 8,
+            "title": "Multi-Specialty Hospital",
+            "category": "hospital",
+            "location": "Bangalore",
+            "date": "2023",
+            "image": "/gallery/multispecialty-hospital.jpg",
+            "description": "Comprehensive water treatment for dialysis, sterilization, and general use",
+            "capacity": "40,000 LPH"
+        },
+        {
+            "id": 9,
+            "title": "Indian Railways Maintenance Depot",
+            "category": "government",
+            "location": "Chennai",
+            "date": "2024",
+            "image": "/gallery/railways-depot.jpg",
+            "description": "Water treatment for locomotive maintenance and cleaning operations",
+            "capacity": "80,000 LPH"
+        },
+        {
+            "id": 10,
+            "title": "Residential Township",
+            "category": "residential",
+            "location": "Pune",
+            "date": "2023",
+            "image": "/gallery/residential-township.jpg",
+            "description": "Community water treatment serving 500+ residential units",
+            "capacity": "120,000 LPH"
+        },
+        {
+            "id": 11,
+            "title": "Textile Manufacturing Unit",
+            "category": "industrial",
+            "location": "Surat",
+            "date": "2024",
+            "image": "/gallery/textile-unit.jpg",
+            "description": "Water treatment for dyeing and finishing processes",
+            "capacity": "90,000 LPH"
+        },
+        {
+            "id": 12,
+            "title": "Commercial Laundry Facility",
+            "category": "commercial",
+            "location": "Mumbai",
+            "date": "2023",
+            "image": "/gallery/commercial-laundry.jpg",
+            "description": "High-capacity water treatment for industrial laundry operations",
+            "capacity": "70,000 LPH"
+        }
+    ],
+    "categories": [
+        {
+            "id": "all",
+            "name": "All Projects",
+            "count": 12
+        },
+        {
+            "id": "government",
+            "name": "Government",
+            "count": 3
+        },
+        {
+            "id": "hospital",
+            "name": "Hospitals",
+            "count": 2
+        },
+        {
+            "id": "industrial",
+            "name": "Industrial",
+            "count": 4
+        },
+        {
+            "id": "agriculture",
+            "name": "Agriculture",
+            "count": 1
+        },
+        {
+            "id": "commercial",
+            "name": "Commercial",
+            "count": 2
+        },
+        {
+            "id": "residential",
+            "name": "Residential",
+            "count": 1
+        }
+    ]
+}

@@ -1,0 +1,264 @@
+{
+  "categories": [
+    {
+      "name": "Government & PSUs",
+      "clients": [
+        {
+          "name": "Road and Building Department, GoG",
+          "logo": "/clients/road&building-department.png",
+          "alt": "Road and Building Department"
+        },
+        {
+          "name": "Health & Family Welfare Department",
+          "logo": "/clients/Ministry_of_Health_India.svg",
+          "alt": "Health & Family Welfare Department"
+        },
+        {
+          "name": "Gujarat Police Housing Corporation",
+          "logo": "/clients/Gujarat-Police-Housing-Corporation.jpeg",
+          "alt": "Gujarat Police Housing Corporation"
+        },
+        {
+          "name": "Sardardham",
+          "logo": "/clients/sardardham.png",
+          "alt": "Sardardham"
+        },
+        {
+          "name": "Government of Gujarat",
+          "logo": "/clients/GovernmentOfGujarat.jpeg",
+          "alt": "Government of Gujarat"
+        },
+        {
+          "name": "GMC",
+          "logo": "/clients/GMC.png",
+          "alt": "Gandhinagar Municipal Corporation"
+        },
+        {
+          "name": "AMC",
+          "logo": "/clients/AMC.png",
+          "alt": "Ahmedabad Municipal Corporation"
+        }
+      ]
+    },
+    {
+      "name": "Spiritual & Social Organizations",
+      "clients": [
+        {
+          "name": "BAPS Swaminarayan",
+          "logo": "/clients/BAPS.png",
+          "alt": "BAPS Swaminarayan"
+        },
+        {
+          "name": "Brahma Kumaris",
+          "logo": "/clients/Brahma-Kumaris.png",
+          "alt": "Brahma Kumaris"
+        },
+        {
+          "name": "Osho International Foundation",
+          "logo": "/clients/OSHO.png",
+          "alt": "Osho International"
+        },
+        {
+          "name": "Vidhayamandir Trust Palanpur",
+          "logo": "/clients/Vidhayamandir-Trust-Palanpur.png",
+          "alt": "Vidhayamandir Trust Palanpur"
+        }
+      ]
+    },
+    {
+      "name": "Healthcare",
+      "clients": [
+        {
+          "name": "Mavjat Multispecialty Hospital",
+          "logo": "/clients/Mavjat-Multispecialty-Hospital.png",
+          "alt": "Mavjat Hospital"
+        },
+        {
+          "name": "Lifecare Hospital",
+          "logo": "/clients/Lifecare-Hospital.png",
+          "alt": "Lifecare Hospital"
+        },
+        {
+          "name": "Civil Hospital Ahmedabad",
+          "logo": "/clients/Civil-Hospital-Ahmedabad.png",
+          "alt": "Civil Hospital Ahmedabad"
+        },
+        {
+          "name": "Sola Civil Hospital",
+          "logo": "/clients/Sola-Civil-Hospital.png",
+          "alt": "Sola Civil Hospital"
+        },
+        {
+          "name": "AIIMS",
+          "logo": "/clients/AIIMS.png",
+          "alt": "AIIMS"
+        }
+      ]
+    },
+    {
+      "name": "Real Estate & Infrastructure",
+      "clients": [
+        {
+          "name": "Swagat Group",
+          "logo": "/clients/Swagat-Group.png",
+          "alt": "Swagat Group"
+        },
+        {
+          "name": "Shikshapatri Group",
+          "logo": "/clients/Shikshapatri-Group.png",
+          "alt": "Shikshapatri Group"
+        },
+        {
+          "name": "Vivaan",
+          "logo": "/clients/vivaan.png",
+          "alt": "Vivaan"
+        },
+        {
+          "name": "Krishna Group",
+          "logo": "/clients/Krishna-Group.png",
+          "alt": "Krishna Group"
+        },
+        {
+          "name": "Arise Group",
+          "logo": "/clients/Arise-Group.png",
+          "alt": "Arise Group"
+        },
+        {
+          "name": "Vedant Group",
+          "logo": "/clients/Vedant.png",
+          "alt": "Vedant Group"
+        },
+        {
+          "name": "Mangla Group",
+          "logo": "/clients/Mangal-Group.png",
+          "alt": "Mangla Group"
+        },
+        {
+          "name": "Aatmiya",
+          "logo": "/clients/Aatmiya.png",
+          "alt": "Aatmiya"
+        },
+        {
+          "name": "Shanti Procon LLP",
+          "logo": "/clients/Shanti-Procon-LLP.png",
+          "alt": "Shanti Procon"
+        }
+      ]
+    },
+    {
+      "name": "Industrial & Manufacturing",
+      "clients": [
+        {
+          "name": "Reliance Industries",
+          "logo": "/clients/Reliance-Industries.png",
+          "alt": "Reliance Industries"
+        },
+        {
+          "name": "Tata Group",
+          "logo": "/clients/tata-group.png",
+          "alt": "Tata Group"
+        },
+        {
+          "name": "Adani Group",
+          "logo": "/clients/adani.png",
+          "alt": "Adani Group"
+        },
+        {
+          "name": "Vinitech Metal",
+          "logo": "/clients/Vinitech-Metal.png",
+          "alt": "Vinitech Metal"
+        },
+        {
+          "name": "Nucleus Formulation",
+          "logo": "/clients/Nucleus-Formulation.png",
+          "alt": "Nucleus Formulation"
+        },
+        {
+          "name": "Pharmanza India",
+          "logo": "/clients/Pharmanza-India.png",
+          "alt": "Pharmanza India"
+        },
+        {
+          "name": "Aim-Plast",
+          "logo": "/clients/Aim-Plast.png",
+          "alt": "Aim-Plast"
+        },
+        {
+          "name": "Duke Industrial",
+          "logo": "/clients/duke.png",
+          "alt": "Duke Industrial"
+        },
+        {
+          "name": "Stagot",
+          "logo": "/clients/Stagot.png",
+          "alt": "Stagot"
+        },
+        {
+          "name": "CC Industries",
+          "logo": "/clients/cc.png",
+          "alt": "CC Industries"
+        },
+        {
+          "name": "Decon Technologies",
+          "logo": "/clients/Decon Technologies.png",
+          "alt": "Decon Technologies"
+        },
+        {
+          "name": "Swastik Concast",
+          "logo": "/clients/Swastik-Concast.png",
+          "alt": "Swastik Concast"
+        },
+        {
+          "name": "Compocan Industries",
+          "logo": "/clients/compocan.png",
+          "alt": "Compocan Industries"
+        },
+        {
+          "name": "Nandan Metals",
+          "logo": "/clients/Nandan-Metals.png",
+          "alt": "Nandan Metals"
+        },
+        {
+          "name": "FCG",
+          "logo": "/clients/FCG.png",
+          "alt": "FCG"
+        },
+        {
+          "name": "Neera Organic",
+          "logo": "/clients/neera.png",
+          "alt": "Neera Organic"
+        }
+      ]
+    },
+    {
+      "name": "Hospitality & Education",
+      "clients": [
+        {
+          "name": "Taj Hotels",
+          "logo": "/clients/taj-hotel.png",
+          "alt": "Taj Hotels"
+        },
+        {
+          "name": "ITC Hotels",
+          "logo": "/clients/ITC-Hotels.png",
+          "alt": "ITC Hotels"
+        },
+        {
+          "name": "Sun Resorts",
+          "logo": "/clients/sun-resorts.png",
+          "alt": "Sun Resorts"
+        },
+        {
+          "name": "Comfort Inn",
+          "logo": "/clients/comfort-inn.png",
+          "alt": "Comfort Inn"
+        },
+        {
+          "name": "Apollo International School",
+          "logo": "/clients/apollo.png",
+          "alt": "Apollo School"
+        }
+      ]
+    }
+  ]
+}

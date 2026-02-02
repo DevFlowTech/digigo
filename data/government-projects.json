@@ -1,0 +1,100 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "Rajbhavan",
+            "location": "Gandhinagar",
+            "category": "government",
+            "description": "Complete water treatment installation at the Governor's residence",
+            "images": [
+                {
+                    "src": "/rajbhavan-installation-01.png",
+                    "caption": "Main Installation Unit",
+                    "alt": "Rajbhavan E-SOFT installation unit"
+                },
+                {
+                    "src": "/rajbhavan-control-unit-02.png",
+                    "caption": "Control Unit Panel",
+                    "alt": "Rajbhavan control unit panel"
+                },
+                {
+                    "src": "/rajbhavan-site-inspection-03.png",
+                    "caption": "Site Inspection",
+                    "alt": "Rajbhavan site inspection"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Civil Hospital",
+            "location": "Ahmedabad",
+            "category": "government",
+            "description": "Advanced filtration system for hospital water treatment",
+            "images": [
+                {
+                    "src": "/civil-hospital-filtration-unit-01.png",
+                    "caption": "Filtration Unit",
+                    "alt": "Civil Hospital filtration unit"
+                },
+                {
+                    "src": "/civil-hospital-control-panel-02.png",
+                    "caption": "Control Panel",
+                    "alt": "Civil Hospital control panel"
+                },
+                {
+                    "src": "/civil-hospital-pipeline-installation-03.png",
+                    "caption": "Pipeline Installation",
+                    "alt": "Civil Hospital pipeline installation"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Sachivalaya",
+            "location": "Gandhinagar",
+            "category": "government",
+            "description": "State secretariat water treatment infrastructure",
+            "images": [
+                {
+                    "src": "/sachivalaya-pipeline-unit-01.png",
+                    "caption": "Pipeline Unit",
+                    "alt": "Sachivalaya pipeline unit"
+                },
+                {
+                    "src": "/sachivalaya-e-soft-panel-02.png",
+                    "caption": "E-SOFT Panel",
+                    "alt": "Sachivalaya E-SOFT control panel"
+                },
+                {
+                    "src": "/sachivalaya-water-treatment-03.png",
+                    "caption": "Water Treatment System",
+                    "alt": "Sachivalaya water treatment system"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Sola Civil Hospital",
+            "location": "Gandhinagar",
+            "category": "government",
+            "description": "Comprehensive hospital water purification system",
+            "images": [
+                {
+                    "src": "/sola-hospital-installation-01.png",
+                    "caption": "Installation Unit",
+                    "alt": "Sola Hospital installation unit"
+                },
+                {
+                    "src": "/sola-hospital-pipeline-system-02.png",
+                    "caption": "Pipeline System",
+                    "alt": "Sola Hospital pipeline system"
+                },
+                {
+                    "src": "/sola-hospital-e-soft-unit-03.png",
+                    "caption": "E-SOFT Unit",
+                    "alt": "Sola Hospital E-SOFT unit"
+                }
+            ]
+        }
+    ]
+}

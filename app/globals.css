@@ -1,0 +1,96 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-white text-brand-dark antialiased;
+  }
+
+  html {
+    @apply scroll-smooth;
+  }
+}
+
+@layer components {
+  /* Glassmorphism Classes */
+  .glass {
+    @apply bg-white/70 backdrop-blur-md border border-white/20 shadow-lg;
+  }
+
+  .glass-dark {
+    @apply bg-brand-dark/70 backdrop-blur-md border border-white/10 shadow-lg;
+  }
+
+  .glass-primary {
+    @apply bg-primary-500/10 backdrop-blur-md border border-primary-500/20 shadow-lg;
+  }
+
+  /* Button Styles */
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 rounded-xl font-bold transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-offset-2 disabled:opacity-50 disabled:cursor-not-allowed tracking-wide;
+  }
+
+  .btn-primary {
+    @apply btn bg-gradient-brand text-white hover:brightness-110 focus:ring-primary-500 shadow-lg hover:shadow-xl hover:-translate-y-0.5 active:scale-95;
+  }
+
+  .btn-secondary {
+    @apply btn bg-white text-brand-dark border border-gray-100 hover:bg-gray-50 focus:ring-gray-200 shadow-md hover:shadow-lg hover:-translate-y-0.5 active:scale-95;
+  }
+
+  .btn-outline {
+    @apply btn border-2 border-primary-500 text-primary-600 hover:bg-primary-50 focus:ring-primary-500;
+  }
+
+  .btn-ghost {
+    @apply btn text-brand-dark hover:bg-gray-100;
+  }
+
+  /* Card Styles */
+  .card {
+    @apply bg-white rounded-2xl shadow-md hover:shadow-xl transition-all duration-300 border border-gray-100/50;
+  }
+
+  .card-glass {
+    @apply glass rounded-2xl transition-all duration-500 hover:bg-white/80 hover:shadow-xl hover:-translate-y-1;
+  }
+
+  .card-hover {
+    @apply card hover:-translate-y-1 transition-all duration-300;
+  }
+
+  /* Section Container */
+  .section-container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .section-padding {
+    @apply py-16 md:py-24 lg:py-32;
+  }
+
+  /* Gradient Text */
+  .gradient-text {
+    @apply bg-gradient-brand bg-clip-text text-transparent;
+  }
+
+  /* Input Styles */
+  .input {
+    @apply w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent transition-all duration-200;
+  }
+
+  .textarea {
+    @apply input resize-none;
+  }
+
+  /* Link Styles */
+  .link {
+    @apply text-primary-600 hover:text-primary-700 transition-colors duration-200 underline-offset-4 hover:underline;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
